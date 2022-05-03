@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn Gitand Node\"",
+  "main": " index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumbaal/git-test.git"
+  },
+  "author": "sumbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumbaal/git-test/issues"
+  },
+  "homepage": "https://github.com/sumbaal/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
